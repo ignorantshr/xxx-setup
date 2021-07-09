@@ -1,0 +1,14 @@
+[xxx system]
+
+[portal]
+PORTAL_IPADDRESS="192.168.1.60"
+PORTAL_HTTPS_PORT="443"
+PORTAL_USER="shark"
+PORTAL_PASSWORD="password"
+
+[xxx DB]
+XXX_DB_HOST="localhost"
+XXX_DB_PORT="3306"
+XXX_DB_USER="xxx"
+XXX_DB_PASSWORD="XxxPS!11"
+XXX_DB_DATABASE="xxx"
